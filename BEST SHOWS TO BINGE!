@@ -1,0 +1,150 @@
+<!DOCTYPE HTML>
+<html>
+   
+    <head>
+        <meta charset="utf-8">
+         <title>Best Shows to Binge</title>
+         <style>
+             h1{
+                 
+                 text-align:center;
+             
+             }
+             .story-title{
+                 font-family:Serif;
+             }
+         </style>
+         <body>
+             <h1 class="story-title">Best shows to</h1>
+         </body>
+         <style>
+             body{
+                 background-color:rgb(46, 10, 97);
+             }
+            h1{
+                color:rgb(217, 191, 222);
+            }
+            h2{
+                color:rgb(232, 214, 217);
+            }
+            h3{
+                color:rgb(232, 207, 216);
+            }
+            h4{
+                color:rgb(221, 207, 232);
+            }
+            h2{
+                margin:2px;
+            }
+            .oldest-rookie {
+                color:green
+            }
+            
+         </style>
+         <style>
+         .button{
+             background-color:rgb(109, 24, 194);
+             padding:10px 20px;
+             color:white;
+             border:None;
+         }
+             
+         </style>
+         
+         
+         <style>
+             .Binge{
+                 font-size:98px;
+             }
+             li{
+                 border:2px solid white;
+                 padding:5px;
+                 border-top:1px;
+                 margin:2px;
+             }
+             
+         </style>
+         <body>
+             <h1 class="Binge">Binge Watch!!</h1>
+         </body>
+         <body>
+             <h2>Table of Contents</h2>
+             <h4><ul>
+                 <li><a href="#web-history">Action</a></li>
+                 <li><a href="#thriller">Thriller</a></li>
+                 <li><a href="#comedy">Comedy</a></li>
+                 <li><a href="#fantasy">Fantasy</a></li>
+             </ul>
+             </h4>
+             <h1 id="web-history">Action</h1>
+             
+            
+             
+             <h2>1.The Rookie</h2>
+             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/The_Rookie_%28American_Broadcasting_Company_television_series_logo%29.svg/220px-The_Rookie_%28American_Broadcasting_Company_television_series_logo%29.svg.png"alt="The rookie Logo" width="309"> 
+             <h3>The Rookie is an American police procedural crime drama television series created by Alexi Hawley for ABC. The series follows John Nolan, a man in his forties, who becomes the<span class="oldest-rookie"> oldest rookie at the Los Angeles Police Department (LAPD)</span>.</h3>
+             <h2><button class="button">2.Outer Banks</button></h2>
+             
+             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Outer_Banks_TV_series_logo.png/220px-Outer_Banks_TV_series_logo.png"alt="Outer Banks logo" width="309">
+             <h3>Outer Banks is an American action-adventure mystery teen drama television series created by Josh Pate, Jonas Pate, and Shannon Burke that premiered on Netflix on April 15, 2020. The series is set in a community in the<span class ="oldest-rookie"> Outer Banks of North Carolina</span> and follows the conflict between two groups of teenagers in search of a lost treasure.</h3>
+             <h2>3.Gen V</h2>
+             <img src="https://upload.wikimedia.org/wikipedia/en/7/76/Gen_V_Title_Card.png"alt="Gen V logo"width="109">
+             <h3>Gen V is a spin off for the tv series "The Boys".The series follows a few students with superhuman abilities as they discover their own powers. Set in<span class="oldest-rookie"> “Godolkin University,”</span> the only superhero college in the United States, the students are faced with disturbing secrets on their campus. The show is exceptional to say the least.</h3>
+             <h2>4.Walker</h2>
+             
+             <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Walker_Intertitle_Card.png/220px-Walker_Intertitle_Card.png" alt="Walker Logo" width="309">
+             <h3> <span class="A widowed father">A widowed father</span> returns to Austin after one year, attempting to reconnect with his children, navigate clashes with his family, and find common ground with his new partner, while growing increasingly suspicious of his wife's death.</h3>
+             
+             
+             
+             <h1 id="thriller">Thriller</h1>
+             
+             <h2>1.You</h2>
+             <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/You_%28TV_series%29_intertitle.png/220px-You_%28TV_series%29_intertitle.png"alt="You Logo" width="309">
+             <h3>What would you do for love? For Joe, an intense young man who frequently becomes smitten with beautiful, smart women, this question is put to the test. A charming yet awkward crush becomes something more sinister when love turns into obsession for Joe. Using social media and the internet, he uses every tool at his disposal to become close to the women of his dreams, even going so far as to remove any obstacle including people that stands in his way of getting to them.</h3>
+             <h2>2.Love & Death</h2>
+             <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Love_%26_Death.png/220px-Love_%26_Death.png" alt="Love and death"width="209">
+             <h3>The series is based on the true story of Candy Montgomery, a housewife from Wylie, Texas. It centers around Montgomery, who is living a stereotypical housewife lifestyle in the late 1970s. She has to go before a jury after an affair with her friend from church leads to a killing.
+</h3>
+<h2><button class ="button">3.Stanger Things</button></h2> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Stranger_Things_logo.png/440px-Stranger_Things_logo.png"alt="stranger things"width="309">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Stranger_Things_cast_by_Gage_Skidmore.jpg/580px-Stranger_Things_cast_by_Gage_Skidmore.jpg"alt="stranger things"width="209">
+<h3>Set in the 1980s, the series centers around the residents of the fictional small town of Hawkins, Indiana, as they are plagued by a hostile alternate dimension known as the Upside Down, after a nearby human experimentation facility opens a gateway between Earth and the Upside Down.
+</h3>
+<h2>4. Criminal Minds</h2>
+<img src="https://upload.wikimedia.org/wikipedia/en/5/52/CriminalMindsPromo.jpg"alt="criminal minds"width="209">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Criminal-Minds.svg/440px-Criminal-Minds.svg.png"alt="criminal mind"width="249">
+<h3>Criminal Minds follows a group of criminal profilers who work for the FBI as members of its Behavioral Analysis Unit (BAU), using behavioral analysis and profiling to investigate crimes and find the unsub, the team's term for perpetrators.</h3>
+
+<h1 id="comedy">Comedy</h1>
+<h2><button class="button">1.Friends</button></h2>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Friends_logo.svg/440px-Friends_logo.svg.png"alt="friends"width="309">
+<img src="https://upload.wikimedia.org/wikipedia/en/d/d6/Friends_season_one_cast.jpg"alt="friends"width="189">
+<h3>Friends is a 90's Comedy TV show, based in Manhattan, about 6 friends who go through just about every life experience imaginable together; love, marriage, divorce, children, heartbreaks, fights, new jobs and job losses and all sorts of drama.</h3>
+<h2>2.Abbott Elementry</h2>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/AbbottElementary.png/440px-AbbottElementary.png"alt="abbott elemnetry"width="309">
+<h3>A workplace comedy centered around a group of dedicated teachers - and an oblivious principal - in a Philadelphia public school where, despite the odds stacked against them, they are determined to help their students succeed in life.</h3>
+<h2>3.Modern Family</h2>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Modern_Family_Title.svg/440px-Modern_Family_Title.svg.png"alt="modern"width="280">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Modern_Family_Cast.jpg/600px-Modern_Family_Cast.jpg"alt="modern"width="200">
+<h2>4.How I Met Your Mother</h2>
+<img src="https://upload.wikimedia.org/wikipedia/en/f/fc/Howimetyourmother.jpg"alt="himym"width="300">
+<h3>Ted has fallen in love. It all started when his best friend, Marshall, drops the bombshell that he plans to propose to longtime girlfriend Lily, a kindergarten teacher. Suddenly, Ted realizes that he had better get a move on if he hopes to find true love. Helping him in the quest is Barney, a friend with endless -- often outrageous -- opinions, a penchant for suits and a foolproof way to meet women. When Ted meets Robin, he is sure it's love at first sight, but the affair fizzles into friendship. Voice-over by Bob Saget ("Full House") tells the story through flashbacks.</h3>
+
+
+<h1 id="fantasy">Fantasy</h1>
+<h2><button class="button">1.Game Of Thrones</button></h2>
+<img src="https://upload.wikimedia.org/wikipedia/en/d/d8/Game_of_Thrones_title_card.jpg"alt="game of thrones"width="300">
+<h3>The planet on which Westeros is found has seasons of variable lengths, with summers and winters often lasting for many years. The series focuses on several noble houses of Westeros and a complicated, multiparty war for the Iron Throne that features shifting conflicts, alliances, and betrayals.</h3>
+<h2>2.Lucifer</h2>
+<img src="https://upload.wikimedia.org/wikipedia/en/9/97/Lucifer%2C_title.jpg"alt="lucifer"width="300">
+<h3>his series follows Lucifer, the original fallen angel, who has become dissatisfied with his life in hell. After abandoning his throne and retiring to Los Angeles, Lucifer indulges in his favorite things (women, wine and song) -- until a murder takes place outside of his upscale nightclub. For the first time in billions of years, the murder awakens something unfamiliar in Lucifer's soul that is eerily similar to compassion and sympathy. Lucifer is faced with another surprise when he meets an intriguing homicide detective named Chloe, who appears to possess an inherent goodness -- unlike the worst of humanity, to which he is accustomed. Suddenly, Lucifer starts to wonder if there is hope for his soul.</h3>
+<h2>3.The Umbrella Acadamy</h2>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/The_Umbrella_Academy_logo.svg/440px-The_Umbrella_Academy_logo.svg.png"alt="umbrella"width="289">
+<h3>On one day in 1989, 43 infants are inexplicably born to random, unconnected women who showed no signs of pregnancy the day before. Seven are adopted by billionaire industrialist Sir Reginald Hargreeves, who creates the Umbrella Academy and prepares his "children" to save the world. In their teenage years, though, the family fractures and the team disbands. Fast forward to the present time, when the six surviving members of the clan reunite upon the news of Hargreeves' passing. They work together to solve a mystery surrounding their father's death, but divergent personalities and abilities again pull the estranged family apart, and a global apocalypse is another imminent threat. The series is based on a collection of comics and graphic novels created and written by My Chemical Romance lead singer Gerard Way.</h3>
+<h2>4.The Vampire Diares</h2>
+<img src="https://upload.wikimedia.org/wikipedia/en/4/48/The_Vampire_Diaries_%28title_card%29.png"slt="vampire"width="280">
+<h3>The series is set in the fictional town of Mystic Falls, Virginia, a town charged with supernatural history. It follows the life of Elena Gilbert, a teenage girl who has just lost both parents in a car crash, as she falls in love with a 161-year-old vampire named Stefan Salvatore, who she thinks is just a normal human. Their relationship becomes increasingly intricate as Stefan's mysterious older brother Damon Salvatore returns to Mystic Falls with a plan to bring back their past love, Katherine Pierce, who is Elena's doppelgänger. Although Damon initially holds a grudge against his brother for forcing him to become a vampire, he later reconciles with Stefan and falls in love with Elena, creating a love triangle among the three. Both brothers attempt to protect Elena as they face various villains and threats to their town, including Katherine. The Salvatore brothers' pasts and the town's history along with its secrets are revealed through flashbacks as the series goes on.</h3>
+         </body>
+    </head>
+</html>
